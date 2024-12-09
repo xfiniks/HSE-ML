@@ -1,0 +1,4 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats,selling_price
+Maruti Wagon R VXI AMT 1.2,2018,32995,Petrol,Dealer,Automatic,First Owner,20.52 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,786577.847903911
+Honda City V AT,2010,110000,Petrol,Individual,Automatic,Third Owner,15.6 kmpl,1497 CC,116.3 bhp,146Nm@ 4800rpm,5.0,380260.0691246819
+Hyundai i20 2015-2017 Magna 1.4 CRDi,2016,10000,Diesel,Individual,Manual,First Owner,22.54 kmpl,1396 CC,88.73 bhp,219.7Nm@ 1500-2750rpm,5.0,685847.2024705708
